@@ -1,0 +1,9 @@
+// Original Code:
+function calculate(a, b) {
+  return a * b + 10;
+}
+
+console.log(calculate(2, 3));
+
+// Obfuscated Code:
+//var _0x1ca3=['\x68\x65\x6C\x6C\x6F','\x4C\x4F\x47','\x63\x61\x6C\x63\x75\x6C\x61\x74\x65','\x2A','\x2B','\x31\x30','\x63\x6F\x6E\x73\x6F\x6C\x65','.','\x6C\x65\x6E\x67\x74\x68'];(function(_0x2ed39d,_0x5afddc){var _0x12c9e7=function(_0x16778c){while(--_0x16778c){_0x2ed39d['push'](_0x2ed39d['shift']());}};_0x12c9e7(++_0x5afddc);}(_0x1ca3,0x1be));var _0x12c9=function(_0x2ed39d,_0x5afddc){_0x2ed39d=_0x2ed39d-0x0;var _0x12c9e7=_0x1ca3[_0x2ed39d];return _0x12c9e7;};function calculate(_0x5afddc,_0x2ed39d){return _0x5afddc+_0x12c9('0x3')+_0x2ed39d+_0x12c9('0x7')+_0x12c9('0x5')+_0x12c9('0x6');}console[_0x12c9('0x2')](calculate(0x2,0x3));

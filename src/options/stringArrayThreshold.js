@@ -1,0 +1,30 @@
+// Original code:
+function addNumbers(a, b) {
+  return a + b;
+}
+
+console.log(addNumbers(2, 3));
+
+// Obfuscated code with stringArrayThreshold set to 0.5:
+var _0x48ce = ['\x6c\x6f\x67', '\x2b'];
+(function (_0x13d34e, _0x48ce8b) {
+  var _0x2a3e6b = function (_0x38b09e) {
+    while (--_0x38b09e) {
+      _0x13d34e['push'](_0x13d34e['shift']());
+    }
+  };
+  _0x2a3e6b(++_0x48ce8b);
+})(_0x48ce, 0xa2);
+var _0x2a3e = function (_0x13d34e, _0x48ce8b) {
+  _0x13d34e = _0x13d34e - 0x0;
+  var _0x2a3e6b = _0x48ce[_0x13d34e];
+  return _0x2a3e6b;
+};
+function _0x3f84() {
+  var _0x37a6c1 = _0x2a3e('0x0') + _0x2a3e('0x1');
+  return _0x37a6c1;
+}
+function addNumbers(_0x1ef9e9, _0x4e3f23) {
+  return _0x1ef9e9 + _0x4e3f23;
+}
+console[_0x2a3e('0x2')](_0x2a3e('0x3')(0x2, 0x3));
